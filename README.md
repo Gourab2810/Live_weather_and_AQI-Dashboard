@@ -1,7 +1,6 @@
 # 🌤️ Weather & AQI Dashboard — Power BI
 
-[Dashboard Preview](<img width="1325" height="744" alt="Screenshot 2026-04-07 144509" src="https://github.com/user-attachments/assets/f4f17bbb-fe3a-48ee-a62e-e2d22507484e" />
-)
+[Dashboard Preview](Weather_and_AQI_Dashboard.png)
 
 ##  Overview
 
